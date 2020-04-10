@@ -1,3 +1,7 @@
+Todo NotesApp built using ReactsJS, Bootstrap for frontend 
+Firebase as backend real-time database
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
